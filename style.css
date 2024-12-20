@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header {
+    font-family: "Goudy Bookletter 1911", Monaco, monospace;
+    color: rgb(235, 9, 9);
+    background-color: rgb(20, 93, 4);
+    position: relative;
+    right: 0;
+    display: inline;
+    margin: auto;
+  }
+#links {
+    display: inline;
+}
+  .body {
+    font-family: "Lucida Console", Monaco, monospace;
+    color: white;
+    background-color: rgb(20, 93, 4);
+    position: relative;
+
+  }
+  
+  .contact-me {
+    font-family: "Lucida Console", Monaco, monospace;
+    color: white;
+    background-color: rgb(243, 155, 96);
+    position: relative;
+  }
+
+
+  .footer {
+    font-family: "Lucida Console", Monaco, monospace;
+    color: white;
+    background-color: rgb(20, 93, 4);
+    position: absolute;
+  }
